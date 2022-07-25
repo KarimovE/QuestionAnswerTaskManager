@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "56972d5d-2bea-44f4-944d-8a7010f70a1a": {
+      "ProjectGuid": "56972d5d-2bea-44f4-944d-8a7010f70a1a",
+      "DisplayName": "QATask.API",
+      "ColorIndex": 0
+    },
+    "ae2ef3b6-6567-4cf2-b2ac-c196ddf7e27f": {
+      "ProjectGuid": "ae2ef3b6-6567-4cf2-b2ac-c196ddf7e27f",
+      "DisplayName": "QATask.DomainModels",
+      "ColorIndex": 1
+    },
+    "6f624195-405f-465d-b962-02bf1f241af7": {
+      "ProjectGuid": "6f624195-405f-465d-b962-02bf1f241af7",
+      "DisplayName": "QATask.Infrastructure",
+      "ColorIndex": 2
+    },
+    "0ad32aa9-74c7-4fd3-8719-31bf544f14d3": {
+      "ProjectGuid": "0ad32aa9-74c7-4fd3-8719-31bf544f14d3",
+      "DisplayName": "QATask.Repository",
+      "ColorIndex": 3
+    },
+    "4d526cae-048a-48d4-a911-98fe19717cad": {
+      "ProjectGuid": "4d526cae-048a-48d4-a911-98fe19717cad",
+      "DisplayName": "QATask.Services",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,50 @@
+<div class="infoAnswer">
+  <div [class]="active ? 'danger' : 'Q'"  class="Info">
+    <div class="InfoValue" >
+      
+      Name: <span [class]="status ? 'Q' : 'danger'" (mouseover)="overEvent()" (mouseout)="overEvent()" (click)="toggleAnswer($event)">{{ name }}</span>
+    </div>
+    <div class="InfoValue">
+      {{ country }} <span [class]="status1 ? 'Q' : 'danger'" (mouseover)="overEvent1()" (mouseout)="overEvent1()"(click)="toggleAnswer($event)">{{ countryValue }}</span>
+    </div>
+    <div class="InfoValue">
+      {{ postCode }} <b [class]="status2 ? 'Q' : 'danger'" (mouseover)="overEvent2()" (mouseout)="overEvent2()"(click)="toggleAnswer($event)">{{ postCodeValue }}</b>
+    </div>
+  </div>
+  <div class="answer">
+    <h3>Question</h3>
+    <div>Q{{answer.QuestionId}}</div>
+  </div>
+<div class="answer">
+  <h3>Your Answer</h3>
+  <div>{{answer.answer}}</div>
+</div>
+</div>
+
+<div class="question"
+ >
+
+ <div class="click">Click on a question to activate:</div>
+  <div [class]="data" class="Q"
+  (click)="activation()"
+  (click)="toggle($event)"
+  id="1"
+  >
+   Q1:  {{ data.questions[0].text! }}
+  </div>
+  
+  <div [class]="data" class="Q"
+  (click)="activation()"
+  (click)="toggle($event)"
+  id="2">
+    Q2:  {{ data.questions[1].text }}
+  </div>
+  
+  <div [class]="data" class="Q"
+  (click)="activation()"
+  (click)="toggle($event)"
+  id="3">
+    Q3:  {{ data.questions[2].text }}
+  </div>
+</div>
+

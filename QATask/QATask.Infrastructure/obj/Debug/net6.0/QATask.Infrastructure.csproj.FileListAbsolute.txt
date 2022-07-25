@@ -1,0 +1,12 @@
+C:\Users\AZC167387\Desktop\QATask\QATask.Infrastructure\bin\Debug\net6.0\QATask.Infrastructure.deps.json
+C:\Users\AZC167387\Desktop\QATask\QATask.Infrastructure\bin\Debug\net6.0\QATask.Infrastructure.dll
+C:\Users\AZC167387\Desktop\QATask\QATask.Infrastructure\bin\Debug\net6.0\ref\QATask.Infrastructure.dll
+C:\Users\AZC167387\Desktop\QATask\QATask.Infrastructure\bin\Debug\net6.0\QATask.Infrastructure.pdb
+C:\Users\AZC167387\Desktop\QATask\QATask.Infrastructure\obj\Debug\net6.0\QATask.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AZC167387\Desktop\QATask\QATask.Infrastructure\obj\Debug\net6.0\QATask.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZC167387\Desktop\QATask\QATask.Infrastructure\obj\Debug\net6.0\QATask.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AZC167387\Desktop\QATask\QATask.Infrastructure\obj\Debug\net6.0\QATask.Infrastructure.AssemblyInfo.cs
+C:\Users\AZC167387\Desktop\QATask\QATask.Infrastructure\obj\Debug\net6.0\QATask.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AZC167387\Desktop\QATask\QATask.Infrastructure\obj\Debug\net6.0\QATask.Infrastructure.dll
+C:\Users\AZC167387\Desktop\QATask\QATask.Infrastructure\obj\Debug\net6.0\ref\QATask.Infrastructure.dll
+C:\Users\AZC167387\Desktop\QATask\QATask.Infrastructure\obj\Debug\net6.0\QATask.Infrastructure.pdb

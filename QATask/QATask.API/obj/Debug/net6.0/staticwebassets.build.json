@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HxNDnLX4dk1SOPAzhddWYKAOq1HYKpTCeb/zm63aOYw=",
+  "Source": "QATask.API",
+  "BasePath": "_content/QATask.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

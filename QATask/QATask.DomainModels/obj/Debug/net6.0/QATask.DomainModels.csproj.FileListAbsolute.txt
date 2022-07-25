@@ -1,0 +1,12 @@
+C:\Users\AZC167387\Desktop\QATask\QATask.DomainModels\bin\Debug\net6.0\QATask.DomainModels.deps.json
+C:\Users\AZC167387\Desktop\QATask\QATask.DomainModels\bin\Debug\net6.0\QATask.DomainModels.dll
+C:\Users\AZC167387\Desktop\QATask\QATask.DomainModels\bin\Debug\net6.0\ref\QATask.DomainModels.dll
+C:\Users\AZC167387\Desktop\QATask\QATask.DomainModels\bin\Debug\net6.0\QATask.DomainModels.pdb
+C:\Users\AZC167387\Desktop\QATask\QATask.DomainModels\obj\Debug\net6.0\QATask.DomainModels.csproj.AssemblyReference.cache
+C:\Users\AZC167387\Desktop\QATask\QATask.DomainModels\obj\Debug\net6.0\QATask.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZC167387\Desktop\QATask\QATask.DomainModels\obj\Debug\net6.0\QATask.DomainModels.AssemblyInfoInputs.cache
+C:\Users\AZC167387\Desktop\QATask\QATask.DomainModels\obj\Debug\net6.0\QATask.DomainModels.AssemblyInfo.cs
+C:\Users\AZC167387\Desktop\QATask\QATask.DomainModels\obj\Debug\net6.0\QATask.DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\AZC167387\Desktop\QATask\QATask.DomainModels\obj\Debug\net6.0\QATask.DomainModels.dll
+C:\Users\AZC167387\Desktop\QATask\QATask.DomainModels\obj\Debug\net6.0\ref\QATask.DomainModels.dll
+C:\Users\AZC167387\Desktop\QATask\QATask.DomainModels\obj\Debug\net6.0\QATask.DomainModels.pdb

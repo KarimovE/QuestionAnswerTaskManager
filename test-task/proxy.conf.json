@@ -1,0 +1,9 @@
+{
+  "/api": {
+    "target": "https://localhost:7266",
+    "secure": false,
+    "logLevel": "debug",
+    "start": "ng serve --proxy-config proxy.conf.json"
+  }
+}
+

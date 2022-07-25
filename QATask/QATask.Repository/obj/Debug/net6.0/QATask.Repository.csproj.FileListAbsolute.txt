@@ -1,0 +1,12 @@
+C:\Users\AZC167387\Desktop\QATask\QATask.Repository\bin\Debug\net6.0\QATask.Repository.deps.json
+C:\Users\AZC167387\Desktop\QATask\QATask.Repository\bin\Debug\net6.0\QATask.Repository.dll
+C:\Users\AZC167387\Desktop\QATask\QATask.Repository\bin\Debug\net6.0\ref\QATask.Repository.dll
+C:\Users\AZC167387\Desktop\QATask\QATask.Repository\bin\Debug\net6.0\QATask.Repository.pdb
+C:\Users\AZC167387\Desktop\QATask\QATask.Repository\obj\Debug\net6.0\QATask.Repository.csproj.AssemblyReference.cache
+C:\Users\AZC167387\Desktop\QATask\QATask.Repository\obj\Debug\net6.0\QATask.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZC167387\Desktop\QATask\QATask.Repository\obj\Debug\net6.0\QATask.Repository.AssemblyInfoInputs.cache
+C:\Users\AZC167387\Desktop\QATask\QATask.Repository\obj\Debug\net6.0\QATask.Repository.AssemblyInfo.cs
+C:\Users\AZC167387\Desktop\QATask\QATask.Repository\obj\Debug\net6.0\QATask.Repository.csproj.CoreCompileInputs.cache
+C:\Users\AZC167387\Desktop\QATask\QATask.Repository\obj\Debug\net6.0\QATask.Repository.dll
+C:\Users\AZC167387\Desktop\QATask\QATask.Repository\obj\Debug\net6.0\ref\QATask.Repository.dll
+C:\Users\AZC167387\Desktop\QATask\QATask.Repository\obj\Debug\net6.0\QATask.Repository.pdb

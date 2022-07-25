@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QATask.DomainModels\QATask.DomainModels.csproj" />
+    <ProjectReference Include="..\QATask.Infrastructure\QATask.Infrastructure.csproj" />
+    <ProjectReference Include="..\QATask.Repository\QATask.Repository.csproj" />
+    <ProjectReference Include="..\QATask.Services\QATask.Services.csproj" />
+  </ItemGroup>
+
+</Project>
