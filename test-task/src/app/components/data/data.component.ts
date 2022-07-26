@@ -1,5 +1,7 @@
 import { Component, OnInit, Output, EventEmitter } from '@angular/core';
-import { DataService } from '../../services/data.service';
+import { DataService  } from '../../services/data.service';
+import { AnswerService  } from '../../services/answer.service';
+
 import { Data, Answer } from '../../Data';
 
 
@@ -12,6 +14,7 @@ import { Data, Answer } from '../../Data';
 export class DataComponent implements OnInit {
 
   @Output() btnClick = new EventEmitter();
+
   data: Data= {
     html: '',
     questions: []
@@ -23,6 +26,7 @@ export class DataComponent implements OnInit {
   name: string = " ";
   elementId: string=" ";
   status: boolean = true;
+  trueFalse: boolean = true;
   active: boolean = false;
   status1: boolean = true;
   status2: boolean = true;
@@ -30,9 +34,11 @@ export class DataComponent implements OnInit {
   countryValue: string = " ";
   postCode: string = " ";
   postCodeValue: string = " ";
-  constructor(private dataService: DataService) { }
+  constructor(private dataService: DataService, private answerService: AnswerService) { }
   
   ngOnInit(): void {
+    // this.trueFalse=this.answerService.getAnswer(this.answer);
+    this.answerService.getAnswer(this.answer);
     this.dataService.getData().subscribe((data) => (this.data = data)&&    
     (this.name=new DOMParser().parseFromString(this.data.html, 'text/html').body.childNodes[0].childNodes[0].textContent!)&&
     (this.country=new DOMParser().parseFromString(this.data.html, 'text/html').body.childNodes[0].childNodes[1].childNodes[0].textContent!)
@@ -58,6 +64,5 @@ toggleAnswer(event: Event): void {
   this.answer.answer=answerVale;
 
 }
-
 }
 

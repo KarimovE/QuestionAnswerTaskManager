@@ -18,7 +18,9 @@ builder.Services.AddCors(
                      .AllowAnyHeader();
          })
  );
-builder.Services.AddScoped<IInfoService, InfoService>();
+builder.Services.AddScoped<IInfoService, InfoManager>();
+builder.Services.AddScoped<IAnswerService, AnswerManager>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -1,7 +1,5 @@
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
-using QATask.API.Controllers;
-using QATask.DomainModels.DTOs;
 using QATask.Services.Services.Contracts;
 namespace QATask.API.Controllers
 {
@@ -20,9 +18,9 @@ namespace QATask.API.Controllers
 
 
         [HttpGet(Name = "Info")]
-        public async Task<IActionResult> GetAsync()
+        public IActionResult GetAsync()
         {
-            return Ok(await _service.GetInfo());
+            return Ok(_service.GetInfo());
 
         }
     }

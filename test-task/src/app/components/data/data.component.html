@@ -19,6 +19,10 @@
   <h3>Your Answer</h3>
   <div>{{answer.answer}}</div>
 </div>
+<div [class]="active ? 'answer' : 'nonVisible'">
+  <h3>Your Answer</h3>
+  <div>{{trueFalse}}</div>
+</div>
 </div>
 
 <div class="question"
@@ -30,7 +34,7 @@
   (click)="toggle($event)"
   id="1"
   >
-   Q1:  {{ data.questions[0].text! }}
+   Q1:  {{ data.questions[0].text }}
   </div>
   
   <div [class]="data" class="Q"
